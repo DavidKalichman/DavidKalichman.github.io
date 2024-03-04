@@ -1,5 +1,3 @@
-
-
 ---
 # Display name
 title: Kalichman
